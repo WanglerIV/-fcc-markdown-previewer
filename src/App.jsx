@@ -1,4 +1,4 @@
-import Markdown from 'react-markdown'
+import Markdown from 'https://esm.sh/react-markdown@9'
 import { useState } from 'react'
 import React from 'react'
 
