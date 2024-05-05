@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import React from 'react'
-import ReactMarkdown from "react-markdown";
+import { ReactMarkdown as ReactMarkdownComponent } from '../../react-markdown.js';
 
 
 function App() {
