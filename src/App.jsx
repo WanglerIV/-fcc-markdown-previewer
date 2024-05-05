@@ -1,10 +1,8 @@
+import ReactMarkdown from 'react-markdown';
 import { useState } from 'react'
 import React from 'react'
-import ReactMarkdown from 'react-markdown';
-
 
 function App() {
-
 const textareaText = `# title
 ## This is a sub-heading... 
 **bold**
