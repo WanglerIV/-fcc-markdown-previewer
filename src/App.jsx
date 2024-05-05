@@ -1,8 +1,7 @@
 import { useState } from 'react'
 import React from 'react'
-module.exports = {
-  ReactMarkdown: () => import('react-markdown'),
-};
+import ReactMarkdown from 'react-markdown';
+
 
 
 function App() {
